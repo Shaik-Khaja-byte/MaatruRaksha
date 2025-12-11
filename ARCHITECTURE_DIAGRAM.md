@@ -4,7 +4,7 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                      KANNAMA CALL SYSTEM                                │
+│                      MaatruRaksha CALL SYSTEM                                │
 └─────────────────────────────────────────────────────────────────────────┘
 
                               USER BROWSER
@@ -422,3 +422,4 @@ The only "simulated" part is if you don't have real test numbers to call.
 ---
 
 **For production: Deploy backend to server, use persistent ngrok URL or domain name**
+
